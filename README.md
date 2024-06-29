@@ -12,6 +12,10 @@ To run this code, you need to have the following packages installed:
 - Pandas
 - NumPy
 
+## Visual Data of Trainings
+![image](https://github.com/byurudur/ImageClassification/assets/136338567/0cf01810-9376-4e50-b7dd-7bfb9e5159a8)
+
+
 You can install these packages using pip:
 
 ```bash
@@ -37,4 +41,6 @@ class_names = ["T-shirt/top", "Trouser", "Pullover", "Dress", "Coat",
 
 # Model Building
 The model is built using the Keras Sequential API. It consists of an input layer, two hidden layers with ReLU activation, and an output layer with softmax activation.
+
+
 
